@@ -2,9 +2,12 @@
 Northwestern University
 Artificial Intelligence and Deep Learning
 
-MSDS 458 - Thank you !!!
+MSDS 458 - Thank you !!! 
 
-During this year, we take time to reflect upon the good things we have… like our time spent on course work and debugging code endlessly into the morning hours :) I appreciate working with all of you and hope that the coming year will bring you happiness and success.
+During this summer, take time to reflect upon the good things we have… like our time spent on course work and debugging code endlessly into the morning hours :) I appreciate working with all of you and hope that the coming year will bring you happiness and success.
+
+Summer 2023 is content is coming 
+
 
 Best,
 Daniel
